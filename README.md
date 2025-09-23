@@ -16,6 +16,6 @@ A simple Amazon-like e-commerce homepage clone built using **HTML** and **CSS** 
 project link https://github.com/ayeshashaikh25/amazon-clone.git
 
 
-
+git@github.com:ayeshashaikh25/amazon-clone.git
 
 
