@@ -18,4 +18,4 @@ project link https://github.com/ayeshashaikh25/amazon-clone.git
 
 git@github.com:ayeshashaikh25/amazon-clone.git
 
-
+gh repo clone ayeshashaikh25/amazon-clone
