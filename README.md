@@ -18,4 +18,4 @@ project link https://github.com/ayeshashaikh25/amazon-clone.git
 
 
 
-<img width="1920" height="1080" alt="amazon_logo" src="https://github.com/user-attachments/assets/ea3c87e4-bddb-404c-9098-b20f193bbba7" />
+
